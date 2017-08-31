@@ -1,9 +1,39 @@
 {
   "list": [
     {
-      "name": "準備中",
-      "logo": "",
-      "href": ""
+      "name": "共同協辦",
+      "logo": "https://www.dropbox.com/s/to51q6bxybgbj1k/macuknow.jpg?raw=1",
+      "href": "http://www.macuknow.com"
+    },
+    {
+      "name": "皮樂 Hiraku",
+      "logo": "https://www.dropbox.com/s/xrk22gqm25y9f38/Icon%20Round%20-%20Gary%20Lin.svg?raw=1",
+      "href": "https://www.facebook.com/hiraku.tw/"
+    },
+    {
+      "name": "馬力歐陪你喝一杯",
+      "logo": "https://www.dropbox.com/s/42vb2dbux3gtw4y/15622033_1197822996960736_453764985419384104.jpg?raw=1",
+      "href": "http://drinkwithmario.thenewslens.com/"
+    },
+    {
+      "name": "健康盟",
+      "logo": "https://www.dropbox.com/s/3k8gu7krjk8ew1p/IHealth.png?raw=1",
+      "href": "http://www.healthleaguex.com"
+    },
+    {
+      "name": "正洋資訊",
+      "logo": "https://www.dropbox.com/s/3l4tysh81x3npwq/JY_Logo_text_320x132_filemaker_TC%20-%20Chong-Bing%20Liu.png?raw=1",
+      "href": "https://EasyApps.biz"
+    },
+    {
+      "name": "AK",
+      "logo": "https://www.dropbox.com/s/1i85piulfmcnprj/IMG_2550%20-%20AK%20iPad%20Art.png?raw=1",
+      "href": "https://www.facebook.com/akart2014/"
+    },
+    {
+      "name": "Promedia",
+      "logo": "https://www.dropbox.com/s/6b3qo9mbd2dm6ay/promedialogo.png?raw=1",
+      "href": "https://www.facebook.com/promediatw"
     }
   ]
 }

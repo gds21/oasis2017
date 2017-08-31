@@ -181,20 +181,38 @@
 		}
 	],
 	"smart-city": [{
-		"title": "議程準備中",
+		"title": "現在就讓你知道就完了",
 		"speaker": {
-			"name": "議程準備中",
-			"title": "議程準備中",
-			"intro": "議程準備中",
+			"name": "？？",
+			"title": "神人一號",
+			"intro": "",
+			"avatar": ""
+		}
+	},
+	{
+		"title": "會講到一些跟 Python 有關的事",
+		"speaker": {
+			"name": "莫再問",
+			"title": "Python 大大",
+			"intro": "",
 			"avatar": ""
 		}
 	}],
 	"iosdc": [{
-		"title": "議程準備中",
+		"title": "Swift 一定會談到的啊",
 		"speaker": {
-			"name": "議程準備中",
-			"title": "議程準備中",
-			"intro": "議程準備中",
+			"name": "Team Kook",
+			"title": "林果CEO",
+			"intro": "",
+			"avatar": ""
+		}
+	},
+	{
+		"title": "iOS11 現在還不能說",
+		"speaker": {
+			"name": "***",
+			"title": "****",
+			"intro": "",
 			"avatar": ""
 		}
 	}]

@@ -198,7 +198,17 @@
 			"avatar": ""
 		}
 	}],
-	"iosdc": [{
+	"iosdc": [
+	{
+		"title": "先別說 iOSDC 了，你知道 9/13 要幹麻嗎",
+		"speaker": {
+			"name": "原廠蘋果講者",
+			"title": "Apple",
+			"intro": "所有你想得到的重量級蘋果講者，這天都能見到",
+			"avatar": ""
+		}
+	},
+	{
 		"title": "Swift 一定會談到的啊",
 		"speaker": {
 			"name": "Team Kook",

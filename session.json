@@ -1,184 +1,201 @@
 {
-    "augm": [
-      {
-      "title": "馬力歐陪你喝一杯：一個Podcast的發起和製作",
-      "speaker": {
-        "name": "楊士範 Mario",
-        "title": "The News Lens 關鍵評論網共同創辦人",
-        "intro": "<p>時光回到 2004 年，蘋果在 iPod 裡推出了 Podcast 功能，這個結合自 iPod 及 Broadcast 的新字，能讓 iPod 的用戶隨時收聽包羅萬象的內容，從時事到教育無所不包。</p><p>即便到了現代，全球 Podcast 的聽眾仍不在少數，而這都要感謝難以計數的播主們，他們製作有趣且生動的內容，將知識免費散播到全球。可惜的是，中文 Podcast 的總量仍遠遠不及。</p><p>關鍵評論網正在進行這項嘗試，他們製作了中文的 Podcast 叫做馬力歐陪你喝一杯，與你盡談飲食文化，而在這場 Talk 中，馬力歐會分享這段充滿新奇的過程，而你也能知道如何開始當一名播主。</p><h3>經歷</h3>The News Lens 關鍵評論網共同創辦人、前商業周刊數位內容資深編輯、前CNET Taiwan執行主編",
-        "avatar": "https://www.dropbox.com/s/31dawj58ffo66tl/20160802_mario%20-%20Mario%20Yang.jpg?raw=1"
-        }
-      },
-    {
-      "title": "用 Keynote 簡報抓住你的心",
-      "speaker": {
-        "name": "蘋果梗",
-        "title": "MacUknow 站長、資策會講師",
-        "intro": "用 Keynote 做簡報有各種流派，不同流派之間都有不同的審美觀以及排版形式，但你有試過用人類行為模式出發來做簡報嗎？與其講到口乾舌燥，不如設計安排好的簡報，一秒鐘就暗示觀眾去注意你想要強調的重點。",
-        "avatar": "https://www.dropbox.com/s/fgtoxiyngtns8pm/IMG_2225%20%20-%20Apple%20Stem%20%E8%98%8B%E6%9E%9C%E6%A2%97.JPG?raw=1"
-      }
-    },
-    {
-      "title": "網紅當道！獨立製片秘技大公開",
-      "speaker": {
-        "name": "夏佐",
-        "title": "3M、家樂氏麥片、國泰金控等各大品牌影視製片",
-        "intro": "無論是 Youtuber 或是各種網紅，背後代表的經濟規模已經被大家所看到，但在你想加入之前，你知道拍片的各種流程以及怎麼選擇設備嗎？製片人夏佐不但要分享這幾年累積出來的經驗，還要告訴你各種快速提昇質感的小技巧。",
-        "avatar": "https://www.dropbox.com/s/p49b19fb8de7hf7/13095820_10205858485412505_816069238312286084_n%20-%20Chun%20Hsiang%20Weng.jpg?raw=1"
-      }
-    },
-    {
-      "title": "iOS 越獄 tweak 開發入門",
-      "speaker": {
-        "name": "Gary Lin",
-        "title": "資深 iOS 越獄 tweak 開發者",
-        "intro": "就算你沒有 JB 過你的 iPhone，你也一定聽過什麼是 JB，在台灣，有一群高手一直都持續的在開發各種好用的 tweak，如果你也想加入這個行列，該注意哪些事情，又可以從哪裡開始著手呢。來聽聽前輩以 theos 套件開發 tweak的建議吧",
-        "avatar": "https://www.dropbox.com/s/c4y46sa769wvtuj/13254800_1195521160488736_9107727658111453397_o%20-%20Gary%20Lin.jpg?raw=1"
-      }
-    },
-    {
-      "title": "用 Mac 搞 Web 超棒 der",
-      "speaker": {
-        "name": "Serrok",
-        "title": "HITCON ZeroDay 前端工程師、形象組組長",
-        "intro": "誰都可以拿來開發 Web，誰都可以做得很好，但真的有甚麼事情非 Mac 來做不可？用 Mac 來做 Web 開發有甚麼事半功倍的效果讓這麼多企業指定一律使用 Mac？而現代的 Web 開發更不只是網站網頁而已，Web 能幹的事情其實超多超威。且聽我一個小時的碎碎念道來。",
-        "avatar": "https://www.dropbox.com/s/o9wzzpzgorqnp0a/12304120_1196275460387249_6818757123137099587_o%20-%20Serrok%20Liu.jpg?raw=1"
-      }
-    },
-    {
-      "title": "Electron 開發跨平台桌面軟體",
-      "speaker": {
-        "name": "Jr",
-        "title": "擅長前端、後端及 iOS App 開發的攻城獅",
-        "intro": "Electron 近來相當流行，能使用 JavaScript 語言，就開發出跨平台程式，在 Mac、Windows 上執行應用程式，像是知名的團隊協同軟體 Slack 桌面版，就是使用 Electron 開發的，跟著這個議程開始開發桌面版 App 吧。",
-        "avatar": "https://www.dropbox.com/s/4lli9h5txxs38bq/1115574%20-%20Jrting%20Shiau.jpg?raw=1"
-      }
-    },
-    {
-      "title": "陪伴小孩共學程式設計",
-      "speaker": {
-        "name": "張景隆",
-        "title": "2016 臺大黑客松 講者",
-        "intro": "<p>這些年來全球瘋學習程式設計，包含蘋果在內的多個公司組織同時響應了 Hour of Code 計畫，期望每一個人至少要給自己一小時的機會，學習任何一門程式語言。我們認為學寫程式不代表要當工程師，卻是培養解決問題的能力，因此即便你還沒開始，或是想和小朋友一起開始踏上這個新奇的旅程，景隆會帶上 iPad 做為嚮導陪你前進。</p><h3>經歷</h3>2016 臺大黑客松 講者、2015 臺大黑客松 評審、HackNTU iOS course 講師、台中榮總 105年醫療院所數位化之研究與推動計畫講師、東海大學教學卓越計畫講師、資策會 iOS 課程講師、教育部 開放式課程 講師、熱門記帳軟體 CWMoney iOS 開發者、MOPCON 2014 講者、CodeData 作者、2013年 參加蘋果官方主辦 Tech Talk、麥克自由聚(Apple, Mac, iOS 相關) 講師、iOS Dev Club 講者 兼 核心成員",
-        "avatar": "https://www.dropbox.com/s/nld5u8vme1mokjp/17203163_1486234254720328_18843292762090548.jpg?raw=1"
-      }
-    },
-    {
-      "title": "Mac 檔案管理經驗談 - 以 NAS 為例",
-      "speaker": {
-        "name": "蘋果梗",
-        "title": "MacUknow 站長、資策會講師",
-        "intro": "很多 Mac User 把電腦買回家之後一陣子，開始哭訴檔案很亂不知道怎麼整理，明明可以很單純的事情，就趁還來得及好好的整理檔案。從 Mac 的檔案架構開始介紹，資料該怎麼歸類存檔，一路帶到資料備份的必備法則。",
-        "avatar": "https://www.dropbox.com/s/fgtoxiyngtns8pm/IMG_2225%20%20-%20Apple%20Stem%20%E8%98%8B%E6%9E%9C%E6%A2%97.JPG?raw=1"
-      }
-    },
-    {
-      "title": "台灣第一本 iBooks Author 電子書的誕生",
-      "speaker": {
-        "name": "余承勳",
-        "title": "金牛頓藝術科技出版公關、貝多芬牙醫集團貝爾實驗室主任",
-        "intro": "你知道全台灣第一本利用 iBooks Author 軟體產出的電子書是在新竹孕育出的嗎？而且他們的電子書至今已經在全世界超過 50 個國家上架 iBooks Store 販售。如果想要自己製作電子書，從內容發想、材料蒐集這些過程要注意的事情，全部告訴你。",
-        "avatar": "https://www.dropbox.com/s/07fvtk29y6udbhj/FullSizeRender%203%20-%20Chester%20Yu.jpg?raw=1"
-      }
-    },
-    {
-      "title": "iPhone 旅行攝影與修圖技巧",
-      "speaker": {
-        "name": "Erica Wu",
-        "title": "2017 美國 IPPAwards iPhone攝影比賽得獎人",
-        "intro": "你身邊就有一台非常棒的相機，但你有想過拿它來拍攝得獎作品嗎？Erica 是使用 iPhone 進行拍攝的藝術家，獨到的構圖使她的作品屢屢登上美國時代雜誌、英國衛報、日本網站 Excite 及多個台灣媒體，並且在台中的麥克自由聚基地 - 默契咖啡舉辦多次個展。想知道她如何從構圖、修圖到參賽嗎？跟著 Erica 的腳步雲遊四海吧。<h3>經歷</h3>2017 美國IPPAwards iPhone攝影比賽Events (時事) 和Still Life (靜物) 佳作、2016 美國 IPPAwards iPhone 攝影比賽動物項目冠軍、默契咖啡個展、Match Neverland 個展、思默好時個展、台北華山 Wonder Photo Day 聯展、台北松菸 Independent Taipei 聯展、東京淺草橋 Independent Tokyo 聯展、台北華山 Taiwan Art Photo 聯展、PhotoFast 我的小旅行 iPhone 手機攝影比賽評審",
-        "avatar": "https://www.dropbox.com/s/acx344ssepo9qt2/Erica%20-%20Erica%20Wu.jpg?raw=1"
-      }
-    },
-    {
-      "title": "玩出絕妙好調 - GarageBand",
-      "speaker": {
-        "name": "施暹",
-        "title": "後搖樂團合成器、鼓手",
-        "intro": "大多人可能不知道，GarageBand 在 iLife 系列中一直是最具有價值的軟體。但我們卻總是打開軟體後呆坐在螢幕前，不知道從哪裡下手嗎？這次的分享會除了 GarageBand 功能介紹與應用之外，還能讓你學會如何剪輯音樂，甚至創作自己專屬音樂當作鈴聲或是替自己個人影片打造專屬的動人配樂。此外也會介紹使用 GarageBand 軟體創作，並發行個人專輯的成功案例喔！",
-        "avatar": "https://www.dropbox.com/s/hhuqle5nxbfvbb2/demeter_sss2015%20-%20%E6%96%BD%E6%9A%B9.png?raw=1"
-      }
-    },
-    {
-      "title": "親民易上手、企業 App 跨平台創新應用 - FileMaker",
-      "speaker": {
-        "name": "劉仲濱",
-        "title": "正洋資訊顧問有限公司暨明易有限公司經理",
-        "intro": "當企業試圖導入行動化時，最常遇到的第一個問題就是要花多少錢開發 App，以及要找誰開發 App。蘋果的子公司 FileMaker 是一個提供視覺化資料庫的解決方案，你可以利用較小的成本就開發一款多人同時操作的資料庫，並設計出美侖美奐的 App，不需假他人之手，在這兩個小時的議程裡，你會看到國內的實際案例，以及該如何開始學習 FileMaker。",
-        "avatar": "https://www.dropbox.com/s/9nmok42qm4ctvz2/Chong-Bing-Liu%20-%20Chong-Bing%20Liu.png?raw=1"
-      }
-    },
-    {
-      "title": "時間管理王者 OmniFocus 初探",
-      "speaker": {
-        "name": "曾元譆",
-        "title": "[I]Store 立展資訊 教育訓練副理",
-        "intro": "<p>因為蘋果電腦提供了很棒的行事曆、電子郵件與通訊錄軟體，使得時間管理學這個生態圈裡，一直是熱門的話題，許多第三方廠商也都在這個基礎上優先打造更棒的軟體，像是知名的 OmniFocus。這套在 iOS 及 Mac 上都有的軟體，被譽為時間管理學中難以登攀之高山，為什麼他會給人這種印象，我們又該如何從這個工具裡榨出更多自己的時間呢？</p><h3>經歷</h3>前 Apple 台灣分公司 特約培訓講師、華人 OmniFocus 使用者俱樂部 站長",
-        "avatar": "https://www.dropbox.com/s/mj7ejq80qjrxyrn/IMG_5322%20-%20Yuanxi%20Tseng.JPG?raw=1"
-      }
-    },
-    {
-      "title": "Automator 自動化流程",
-      "speaker": {
-        "name": "Chris",
-        "title": "「克里斯的小窩」網誌站長",
-        "intro": "談到蘋果電腦，你可能會想著許多快捷鍵可以學習。不過在蘋果電腦上，可不是只有快捷鍵能幫你加速完成工作。在 macOS 內建裡的 Automator 軟體，就像一個機器人一樣，你可以在不會寫程式的背景下，用視覺的方式教會電腦某些工作的固定步驟，以後就能自動執行。克里斯將與你分享他的自動化招式，讓你把重要的時間留給更重要的人。",
-        "avatar": "https://www.dropbox.com/s/p0yjjyi04ilr2r1/Chris%20Robot.jpg?raw=1"
-      }
-    },
-    {
-      "title": "iPad：數位繪圖工具的未來式及現場秀",
-      "speaker": {
-        "name": "AK",
-        "title": "插畫創作者、職業繪師、繪畫教學講師",
-        "intro": "iPad 是一個不錯的繪圖工具嗎？這個問題也許交給專業的繪師回答會更好，AK擁有超過 17 年的電繪經驗，他會教你傳統與電繪的差別，更甚至電繪與 iPad 繪圖的差別，帶你在繪圖前先熟悉工具，並說明為什麼 iPad 及 Apple Pencil 是集大成的新工具，最後再進行一場現場繪製秀。",
-        "avatar": "https://www.dropbox.com/s/yj1tzpbjlk5o1f9/IMG_2550%20-%20AK%20iPad%20Art.jpg?raw=1"
-      }
-    },
-    {
-      "title": "Apple Final Cut Pro 的前世今生與全面進化",
-      "speaker": {
-        "name": "蘇兆民",
-        "title": "Apple Final Cut Pro 國際認證講師",
-        "intro": "<p>Final Cut Pro 是蘋果專為影視人員推出的剪輯工具，是國內外許多電視台或電影工作室都會採用的一套工具及流程。要了解這套軟體，就得先從它的工作流程開始說起，蘇兆民身為資深媒體人與國際認證講師，會帶你一探影視的神祕，從 Final Cut Pro 的演化談起、數位影像的發展、無痛轉移至新版的 FCP X，一直到介紹最新版 10.3 的功能及國際認證介紹。</p><h3>經歷</h3>Apple Final Cut Pro 國際認證講師、華視數位製播系統規劃專案經理、暨南大學 觀光學程 地方文史與多媒體製作課程講師、中央研究院民族所 數位典藏課程影音媒體課程講師、資策會 數位內容學院講師、公共電視美術組、三立、大愛節目製作部、中天新聞部、TVBS新聞部 、福斯、政大教務處、台藝大電影系、中正傳播系、輔仁傳播學院數位媒體中心、龍華科大數位媒體中心、文化大學推廣部蘋果認證教學中心、傳翼數位影像、鈺德光碟（錸德集團）、昂德光碟、知了工作室、和信醫院公關部、聯合報資訊處、長榮集團、QNAP 威聯通科技股份有限公司等單位 講師",
-        "avatar": "https://www.dropbox.com/s/wnwk688mxhw7k68/IMG_4218%20-%20Su%20James.jpg?raw=1"
-      }
-    },
-    {
-      "title": "一個月 30 元的 iCloud 作了什麼事？",
-      "speaker": {
-        "name": "張嘉鳴",
-        "title": "MacToday 資深技術編輯",
-        "intro": "<p>為什麼在這麼多雲端硬碟的服務裡，你最需要優先考量購買一個月 30 元的 iCloud？如果某天你的 iPhone 遺失了，最讓人不捨的應該就是裡面的資料了吧？！然而只要購買就沒事了嗎？剩下的備份、安全、同步等怎麼做，教你一次學會。</p> <h3>經歷</h3>iWork 輕鬆玩／iWork 無限玩 協同作者、新北市議會 iOS 教育訓練講師、東海岸獨木舟 Ruby on Rails 工程師、美奇文化出版社 MacToday 資深技術編輯、Apple Mac Integration Basics 10.7 / 10.8 認證。",
-        "avatar": "https://www.dropbox.com/s/iam2qcvfcntfj15/Bruce%E9%BB%91%E7%99%BD%20-%20Bruce%20Chang.jpg?raw=1"
-      }
-    },
-    {
-      "title": "動力覺醒-啟動 Keynote 動畫力",
-      "speaker": {
-        "name": "蓓蓓",
-        "title": "「Keynote 不求人」臉書粉絲團團長",
-        "intro": "什麼？Keynote 不只做簡報，還能玩動畫！讓蓓蓓帶你一起發現 Keynote 的好、動畫的酷，從零到壹，改變沈悶的簡報模式。",
-        "avatar": "https://www.dropbox.com/s/a56ap6a2saucjly/20155863_1568609853184220_5199967066499729441_n%20-%20%E4%BA%AB%E5%81%A5%E5%BA%B7%20IHealth.jpg?raw=1"
-      }
-    }
-  ],
-    "smart-city": [{
-      "title": "議程準備中",
-      "speaker": {
-        "name": "議程準備中",
-        "title": "議程準備中",
-        "intro": "議程準備中",
-        "avatar": ""
-      }
-    }],
-    "ios-dev-forum": [{
-      "title": "議程準備中",
-      "speaker": {
-        "name": "議程準備中",
-        "title": "議程準備中",
-        "intro": "議程準備中",
-        "avatar": ""
-      }
-    }]
-  }
+	"augm": [{
+			"title": "用 Keynote 簡報抓住你的心",
+			"speaker": {
+				"name": "蘋果梗",
+				"title": "MacUknow 站長、資策會講師",
+				"intro": "用 Keynote 做簡報有各種流派，不同流派之間都有不同的審美觀以及排版形式，但你有試過用人類行為模式出發來做簡報嗎？與其講到口乾舌燥，不如設計安排好的簡報，一秒鐘就暗示觀眾去注意你想要強調的重點。",
+				"avatar": "https://www.dropbox.com/s/fgtoxiyngtns8pm/IMG_2225%20%20-%20Apple%20Stem%20%E8%98%8B%E6%9E%9C%E6%A2%97.JPG?raw=1"
+			}
+		},
+		{
+			"title": "iPad：數位繪圖工具的未來式及現場秀",
+			"speaker": {
+				"name": "AK",
+				"title": "插畫創作者、職業繪師、繪畫教學講師",
+				"intro": "iPad 是一個不錯的繪圖工具嗎？這個問題也許交給專業的繪師回答會更好，AK擁有超過 17 年的電繪經驗，他會教你傳統與電繪的差別，更甚至電繪與 iPad 繪圖的差別，帶你在繪圖前先熟悉工具，並說明為什麼 iPad 及 Apple Pencil 是集大成的新工具，最後再進行一場現場繪製秀。",
+				"avatar": "https://www.dropbox.com/s/yj1tzpbjlk5o1f9/IMG_2550%20-%20AK%20iPad%20Art.jpg?raw=1"
+			}
+		},
+		{
+			"title": "網紅當道！獨立製片秘技大公開",
+			"speaker": {
+				"name": "夏佐",
+				"title": "3M、家樂氏麥片、國泰金控等各大品牌影視製片",
+				"intro": "無論是 Youtuber 或是各種網紅，背後代表的經濟規模已經被大家所看到，但在你想加入之前，你知道拍片的各種流程以及怎麼選擇設備嗎？製片人夏佐不但要分享這幾年累積出來的經驗，還要告訴你各種快速提昇質感的小技巧。",
+				"avatar": "https://www.dropbox.com/s/p49b19fb8de7hf7/13095820_10205858485412505_816069238312286084_n%20-%20Chun%20Hsiang%20Weng.jpg?raw=1"
+			}
+		},
+		{
+			"title": "Automator 自動化流程",
+			"speaker": {
+				"name": "Chris",
+				"title": "「克里斯的小窩」網誌站長",
+				"intro": "談到蘋果電腦，你可能會想著許多快捷鍵可以學習。不過在蘋果電腦上，可不是只有快捷鍵能幫你加速完成工作。在 macOS 內建裡的 Automator 軟體，就像一個機器人一樣，你可以在不會寫程式的背景下，用視覺的方式教會電腦某些工作的固定步驟，以後就能自動執行。克里斯將與你分享他的自動化招式，讓你把重要的時間留給更重要的人。",
+				"avatar": "https://www.dropbox.com/s/p0yjjyi04ilr2r1/Chris%20Robot.jpg?raw=1"
+			}
+		},
+		{
+			"title": "iOS 越獄 tweak 開發入門",
+			"speaker": {
+				"name": "Gary Lin",
+				"title": "資深 iOS 越獄 tweak 開發者",
+				"intro": "就算你沒有 JB 過你的 iPhone，你也一定聽過什麼是 JB，在台灣，有一群高手一直都持續的在開發各種好用的 tweak，如果你也想加入這個行列，該注意哪些事情，又可以從哪裡開始著手呢。來聽聽前輩以 theos 套件開發 tweak的建議吧",
+				"avatar": "https://www.dropbox.com/s/c4y46sa769wvtuj/13254800_1195521160488736_9107727658111453397_o%20-%20Gary%20Lin.jpg?raw=1"
+			}
+		},
+		{
+			"title": "親民易上手、企業 App 跨平台創新應用 - FileMaker",
+			"speaker": {
+				"name": "劉仲濱",
+				"title": "正洋資訊顧問有限公司暨明易有限公司經理",
+				"intro": "當企業試圖導入行動化時，最常遇到的第一個問題就是要花多少錢開發 App，以及要找誰開發 App。蘋果的子公司 FileMaker 是一個提供視覺化資料庫的解決方案，你可以利用較小的成本就開發一款多人同時操作的資料庫，並設計出美侖美奐的 App，不需假他人之手，在這兩個小時的議程裡，你會看到國內的實際案例，以及該如何開始學習 FileMaker。",
+				"avatar": "https://www.dropbox.com/s/9nmok42qm4ctvz2/Chong-Bing-Liu%20-%20Chong-Bing%20Liu.png?raw=1"
+			}
+		},
+		{
+			"title": "用 Logic Pro 編出 YouTuber 所需的背景樂",
+			"speaker": {
+				"name": "黃韋皓",
+				"title": "台北流行音樂電台主持人、唱片製作人、Logic Pro 原廠認證講師",
+				"intro": "<p>媒體時代正在改變，越來越多的節目企劃不再受限於設備與環境，拿著自己的手機就能開始收播。除了畫面之外，音樂絕對是不能或缺的靈魂，不過合法的音樂授權昂貴不易，製作出自己的節目音樂除了能減少這類問題外，還能打造出自己的獨特風格。</p><h3>經歷</h3>史瑞克、打獵季節電影音樂導演；我們這一家主題及片尾曲製作；張惠妹、梁詠琪、袁詠儀、羅大佑等發行唱片協力製作",
+				"avatar": "https://www.dropbox.com/s/3w7kugw00sukpmw/jerry.png?raw=1"
+			}
+		},
+		{
+			"title": "用 Mac 搞 Web 超棒 der",
+			"speaker": {
+				"name": "Serrok",
+				"title": "HITCON ZeroDay 前端工程師、形象組組長",
+				"intro": "誰都可以拿來開發 Web，誰都可以做得很好，但真的有甚麼事情非 Mac 來做不可？用 Mac 來做 Web 開發有甚麼事半功倍的效果讓這麼多企業指定一律使用 Mac？而現代的 Web 開發更不只是網站網頁而已，Web 能幹的事情其實超多超威。且聽我一個小時的碎碎念道來。",
+				"avatar": "https://www.dropbox.com/s/o9wzzpzgorqnp0a/12304120_1196275460387249_6818757123137099587_o%20-%20Serrok%20Liu.jpg?raw=1"
+			}
+		},
+		{
+			"title": "Electron 開發跨平台桌面軟體",
+			"speaker": {
+				"name": "Jr",
+				"title": "擅長前端、後端及 iOS App 開發的攻城獅",
+				"intro": "Electron 近來相當流行，能使用 JavaScript 語言，就開發出跨平台程式，在 Mac、Windows 上執行應用程式，像是知名的團隊協同軟體 Slack 桌面版，就是使用 Electron 開發的，跟著這個議程開始開發桌面版 App 吧。",
+				"avatar": "https://www.dropbox.com/s/4lli9h5txxs38bq/1115574%20-%20Jrting%20Shiau.jpg?raw=1"
+			}
+		},
+		{
+			"title": "Mac 檔案管理經驗談 - 以 NAS 為例",
+			"speaker": {
+				"name": "蘋果梗",
+				"title": "MacUknow 站長、資策會講師",
+				"intro": "很多 Mac User 把電腦買回家之後一陣子，開始哭訴檔案很亂不知道怎麼整理，明明可以很單純的事情，就趁還來得及好好的整理檔案。從 Mac 的檔案架構開始介紹，資料該怎麼歸類存檔，一路帶到資料備份的必備法則。",
+				"avatar": "https://www.dropbox.com/s/fgtoxiyngtns8pm/IMG_2225%20%20-%20Apple%20Stem%20%E8%98%8B%E6%9E%9C%E6%A2%97.JPG?raw=1"
+			}
+		},
+		{
+			"title": "時間管理王者 OmniFocus 初探",
+			"speaker": {
+				"name": "曾元譆",
+				"title": "[I]Store 立展資訊 教育訓練副理",
+				"intro": "<p>因為蘋果電腦提供了很棒的行事曆、電子郵件與通訊錄軟體，使得時間管理學這個生態圈裡，一直是熱門的話題，許多第三方廠商也都在這個基礎上優先打造更棒的軟體，像是知名的 OmniFocus。這套在 iOS 及 Mac 上都有的軟體，被譽為時間管理學中難以登攀之高山，為什麼他會給人這種印象，我們又該如何從這個工具裡榨出更多自己的時間呢？</p><h3>經歷</h3>前 Apple 台灣分公司 特約培訓講師、華人 OmniFocus 使用者俱樂部 站長",
+				"avatar": "https://www.dropbox.com/s/mj7ejq80qjrxyrn/IMG_5322%20-%20Yuanxi%20Tseng.JPG?raw=1"
+			}
+		},
+		{
+			"title": "iPhone 旅行攝影與修圖技巧",
+			"speaker": {
+				"name": "Erica Wu",
+				"title": "2017 美國 IPPAwards iPhone攝影比賽得獎人",
+				"intro": "你身邊就有一台非常棒的相機，但你有想過拿它來拍攝得獎作品嗎？Erica 是使用 iPhone 進行拍攝的藝術家，獨到的構圖使她的作品屢屢登上美國時代雜誌、英國衛報、日本網站 Excite 及多個台灣媒體，並且在台中的麥克自由聚基地 - 默契咖啡舉辦多次個展。想知道她如何從構圖、修圖到參賽嗎？跟著 Erica 的腳步雲遊四海吧。<h3>經歷</h3>2017 美國IPPAwards iPhone攝影比賽Events (時事) 和Still Life (靜物) 佳作、2016 美國 IPPAwards iPhone 攝影比賽動物項目冠軍、默契咖啡個展、Match Neverland 個展、思默好時個展、台北華山 Wonder Photo Day 聯展、台北松菸 Independent Taipei 聯展、東京淺草橋 Independent Tokyo 聯展、台北華山 Taiwan Art Photo 聯展、PhotoFast 我的小旅行 iPhone 手機攝影比賽評審",
+				"avatar": "https://www.dropbox.com/s/acx344ssepo9qt2/Erica%20-%20Erica%20Wu.jpg?raw=1"
+			}
+		},
+		{
+			"title": "Apple Final Cut Pro 的前世今生與全面進化",
+			"speaker": {
+				"name": "蘇兆民",
+				"title": "Apple Final Cut Pro 國際認證講師",
+				"intro": "<p>Final Cut Pro 是蘋果專為影視人員推出的剪輯工具，是國內外許多電視台或電影工作室都會採用的一套工具及流程。要了解這套軟體，就得先從它的工作流程開始說起，蘇兆民身為資深媒體人與國際認證講師，會帶你一探影視的神祕，從 Final Cut Pro 的演化談起、數位影像的發展、無痛轉移至新版的 FCP X，一直到介紹最新版 10.3 的功能及國際認證介紹。</p><h3>經歷</h3>Apple Final Cut Pro 國際認證講師、華視數位製播系統規劃專案經理、暨南大學 觀光學程 地方文史與多媒體製作課程講師、中央研究院民族所 數位典藏課程影音媒體課程講師、資策會 數位內容學院講師、公共電視美術組、三立、大愛節目製作部、中天新聞部、TVBS新聞部 、福斯、政大教務處、台藝大電影系、中正傳播系、輔仁傳播學院數位媒體中心、龍華科大數位媒體中心、文化大學推廣部蘋果認證教學中心、傳翼數位影像、鈺德光碟（錸德集團）、昂德光碟、知了工作室、和信醫院公關部、聯合報資訊處、長榮集團、QNAP 威聯通科技股份有限公司等單位 講師",
+				"avatar": "https://www.dropbox.com/s/wnwk688mxhw7k68/IMG_4218%20-%20Su%20James.jpg?raw=1"
+			}
+		},
+		{
+			"title": "陪伴小孩共學程式設計",
+			"speaker": {
+				"name": "張景隆",
+				"title": "2016 臺大黑客松 講者",
+				"intro": "<p>這些年來全球瘋學習程式設計，包含蘋果在內的多個公司組織同時響應了 Hour of Code 計畫，期望每一個人至少要給自己一小時的機會，學習任何一門程式語言。我們認為學寫程式不代表要當工程師，卻是培養解決問題的能力，因此即便你還沒開始，或是想和小朋友一起開始踏上這個新奇的旅程，景隆會帶上 iPad 做為嚮導陪你前進。</p><h3>經歷</h3>2016 臺大黑客松 講者、2015 臺大黑客松 評審、HackNTU iOS course 講師、台中榮總 105年醫療院所數位化之研究與推動計畫講師、東海大學教學卓越計畫講師、資策會 iOS 課程講師、教育部 開放式課程 講師、熱門記帳軟體 CWMoney iOS 開發者、MOPCON 2014 講者、CodeData 作者、2013年 參加蘋果官方主辦 Tech Talk、麥克自由聚(Apple, Mac, iOS 相關) 講師、iOS Dev Club 講者 兼 核心成員",
+				"avatar": "https://www.dropbox.com/s/nld5u8vme1mokjp/17203163_1486234254720328_18843292762090548.jpg?raw=1"
+			}
+		},
+		{
+			"title": "台灣第一本 iBooks Author 電子書的誕生",
+			"speaker": {
+				"name": "余承勳",
+				"title": "金牛頓藝術科技出版公關、貝多芬牙醫集團貝爾實驗室主任",
+				"intro": "你知道全台灣第一本利用 iBooks Author 軟體產出的電子書是在新竹孕育出的嗎？而且他們的電子書至今已經在全世界超過 50 個國家上架 iBooks Store 販售。如果想要自己製作電子書，從內容發想、材料蒐集這些過程要注意的事情，全部告訴你。",
+				"avatar": "https://www.dropbox.com/s/07fvtk29y6udbhj/FullSizeRender%203%20-%20Chester%20Yu.jpg?raw=1"
+			}
+		},
+		{
+			"title": "玩出絕妙好調 - GarageBand",
+			"speaker": {
+				"name": "施暹",
+				"title": "後搖樂團合成器、鼓手",
+				"intro": "大多人可能不知道，GarageBand 在 iLife 系列中一直是最具有價值的軟體。但我們卻總是打開軟體後呆坐在螢幕前，不知道從哪裡下手嗎？這次的分享會除了 GarageBand 功能介紹與應用之外，還能讓你學會如何剪輯音樂，甚至創作自己專屬音樂當作鈴聲或是替自己個人影片打造專屬的動人配樂。此外也會介紹使用 GarageBand 軟體創作，並發行個人專輯的成功案例喔！",
+				"avatar": "https://www.dropbox.com/s/hhuqle5nxbfvbb2/demeter_sss2015%20-%20%E6%96%BD%E6%9A%B9.png?raw=1"
+			}
+		},
+		{
+			"title": "向蘋果原廠認證習得小技巧",
+			"speaker": {
+				"name": "蔡學欣",
+				"title": "蘋果授權教育中心 TWDC 營運總監、macOS 原廠認證講師",
+				"intro": "<p>Apple 為了推廣旗下的服務，針對了 macOS、iWork、Final Cut Pro 及 Logic Pro 等提供了原廠認證。這個議程將教你如何準備這些認證，並且報名考試。即便你不打算用認證加值蘋果信仰力，在這個演講裡你也能得到許多原廠推薦的好用技巧，讓你的 macOS 功力大增。</p><h3>經歷</h3>QLiEER 技術長、iWork輕鬆玩共同作者、蘋果 ACSP 原廠認證、資策會 iOS 開發講師",
+				"avatar": "https://www.dropbox.com/s/s31nlfvuojbtmmh/glee.jpg?raw=1"
+			}
+		},
+		{
+			"title": "馬力歐陪你喝一杯：一個Podcast的發起和製作",
+			"speaker": {
+				"name": "楊士範 Mario",
+				"title": "The News Lens 關鍵評論網共同創辦人",
+				"intro": "<p>時光回到 2004 年，蘋果在 iPod 裡推出了 Podcast 功能，這個結合自 iPod 及 Broadcast 的新字，能讓 iPod 的用戶隨時收聽包羅萬象的內容，從時事到教育無所不包。</p><p>即便到了現代，全球 Podcast 的聽眾仍不在少數，而這都要感謝難以計數的播主們，他們製作有趣且生動的內容，將知識免費散播到全球。可惜的是，中文 Podcast 的總量仍遠遠不及。</p><p>關鍵評論網正在進行這項嘗試，他們製作了中文的 Podcast 叫做馬力歐陪你喝一杯，與你盡談飲食文化，而在這場 Talk 中，馬力歐會分享這段充滿新奇的過程，而你也能知道如何開始當一名播主。</p><h3>經歷</h3>The News Lens 關鍵評論網共同創辦人、前商業周刊數位內容資深編輯、前CNET Taiwan執行主編",
+				"avatar": "https://www.dropbox.com/s/31dawj58ffo66tl/20160802_mario%20-%20Mario%20Yang.jpg?raw=1"
+			}
+		},
+		{
+			"title": "動力覺醒-啟動 Keynote 動畫力",
+			"speaker": {
+				"name": "蓓蓓",
+				"title": "「Keynote 不求人」臉書粉絲團團長",
+				"intro": "什麼？Keynote 不只做簡報，還能玩動畫！讓蓓蓓帶你一起發現 Keynote 的好、動畫的酷，從零到壹，改變沈悶的簡報模式。",
+				"avatar": "https://www.dropbox.com/s/a56ap6a2saucjly/20155863_1568609853184220_5199967066499729441_n%20-%20%E4%BA%AB%E5%81%A5%E5%BA%B7%20IHealth.jpg?raw=1"
+			}
+		},
+		{
+			"title": "一個月 30 元的 iCloud 作了什麼事？",
+			"speaker": {
+				"name": "張嘉鳴",
+				"title": "MacToday 資深技術編輯",
+				"intro": "<p>為什麼在這麼多雲端硬碟的服務裡，你最需要優先考量購買一個月 30 元的 iCloud？如果某天你的 iPhone 遺失了，最讓人不捨的應該就是裡面的資料了吧？！然而只要購買就沒事了嗎？剩下的備份、安全、同步等怎麼做，教你一次學會。</p> <h3>經歷</h3>iWork 輕鬆玩／iWork 無限玩 協同作者、新北市議會 iOS 教育訓練講師、東海岸獨木舟 Ruby on Rails 工程師、美奇文化出版社 MacToday 資深技術編輯、Apple Mac Integration Basics 10.7 / 10.8 認證。",
+				"avatar": "https://www.dropbox.com/s/iam2qcvfcntfj15/Bruce%E9%BB%91%E7%99%BD%20-%20Bruce%20Chang.jpg?raw=1"
+			}
+		}
+	],
+	"smart-city": [{
+		"title": "議程準備中",
+		"speaker": {
+			"name": "議程準備中",
+			"title": "議程準備中",
+			"intro": "議程準備中",
+			"avatar": ""
+		}
+	}],
+	"ios-dev-forum": [{
+		"title": "議程準備中",
+		"speaker": {
+			"name": "議程準備中",
+			"title": "議程準備中",
+			"intro": "議程準備中",
+			"avatar": ""
+		}
+	}]
+}

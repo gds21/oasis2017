@@ -36,15 +36,6 @@
 			}
 		},
 		{
-			"title": "iOS tweak 開發入門",
-			"speaker": {
-				"name": "Gary Lin",
-				"title": "資深 iOS 工程師",
-				"intro": "<p>11/18 10:50~11:50</p><p>在台灣，有一群高手一直都持續的在開發各種好用的 tweak，如果你也想加入這個行列，該注意哪些事情，又可以從哪裡開始著手呢。來聽聽前輩以 theos 套件開發 tweak的建議吧</p><h3>經歷</h3>多年 iOS App 接案開發經驗、資深 tweak 開發者、曾經逆向分析 Nintendo 3DS 遊戲，並修改遊戲程式行為、<s>皮樂姊姊好碰友</s>",
-				"avatar": "https://www.dropbox.com/s/c4y46sa769wvtuj/13254800_1195521160488736_9107727658111453397_o%20-%20Gary%20Lin.jpg?raw=1"
-			}
-		},
-		{
 			"title": "親民易上手、企業 App 跨平台創新應用 - FileMaker",
 			"speaker": {
 				"name": "劉仲濱",

@@ -1,49 +1,54 @@
 {
   "list": [
     {
-      "name": "共同協辦",
+      "name": "MacUknow",
       "logo": "https://www.dropbox.com/s/to51q6bxybgbj1k/macuknow.jpg?raw=1",
       "href": "http://www.macuknow.com"
     },
     {
-      "name": "活動贊助",
+      "name": "Seagate",
       "logo": "https://www.dropbox.com/s/0q2oyb165lc5upy/seagate2017_1c_wht_horizontal.png?raw=1",
-      "href": ""
+      "href": "http://www.seagate.com/tw/zh/internal-hard-drives/hdd/"
     },
     {
-      "name": "活動贊助",
+      "name": "AKiTiO",
       "logo": "https://www.dropbox.com/s/9mw001d1h6ilwtc/akitio-logo-ca-transparent-300.png?raw=1",
-      "href": ""
+      "href": "http://www.akitio.com.tw/"
     },
     {
-      "name": "活動贊助",
+      "name": "Synology",
       "logo": "https://www.dropbox.com/s/jmbjtucomm0h78i/Synology_logo_Standard.png?raw=1",
-      "href": ""
+      "href": "https://www.synology.com/zh-tw"
     },
     {
-      "name": "活動贊助",
+      "name": "Moshi",
       "logo": "https://www.dropbox.com/s/72olk1gyq7kipv7/Moshi-logo-100px.png?raw=1",
-      "href": ""
+      "href": "https://www.moshi.com/tw/"
     },
     {
-      "name": "活動贊助",
+      "name": "燦坤 3C",
       "logo": "https://www.dropbox.com/s/4ut2vwckc42g8kc/Logo_%E7%87%A6%E5%9D%A4.png?raw=1",
-      "href": ""
+      "href": "http://www.tsannkuen.com/"
     },
     {
-      "name": "活動贊助",
+      "name": "微森林",
       "logo": "https://www.dropbox.com/s/uworct37d8qhg2l/%E5%BE%AE%E6%A3%AE%E6%9E%97.png?raw=1",
-      "href": ""
+      "href": "https://www.facebook.com/micforest99"
+    },
+   {
+      "name": "Octoput Light Turner",
+      "logo": "https://www.dropbox.com/s/53g7acwvegmlx7x/Octoput%20Light%20Turner.png?raw=1",
+      "href": "https://www.facebook.com/octoput/"
     },
     {
-      "name": "活動贊助",
+      "name": "石三木廠",
       "logo": "https://www.dropbox.com/s/ucyxyycv5udxu49/%E7%9F%B3%E4%B8%89%E6%9C%A8%E5%BB%A0.jpg?raw=1",
-      "href": ""
+      "href": "https://www.facebook.com/KuanYuMuYeShe/"
     },
     {
-      "name": "活動贊助",
+      "name": "打打皮",
       "logo": "https://www.dropbox.com/s/0oj2mu31tec8meb/dadapi100px.png?raw=1",
-      "href": ""
+      "href": "https://www.facebook.com/dadapi2014/"
     },
     {
       "name": "演說單位",

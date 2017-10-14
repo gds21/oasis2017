@@ -172,22 +172,78 @@
 		}
 	],
 	"smart-city": [{
-		"title": "準備中",
+		"title": "以Python進行空氣品質資料分析與視覺化",
 		"speaker": {
-			"name": "",
-			"title": "",
-			"intro": "",
-			"avatar": ""
+			"name": "謝欣成",
+			"title": "中央研究院環境變遷研究中心博士後研究員",
+			"intro": "Python簡介、資料分析與視覺化，並使用環保署測站及LASS環境感測網路系統進行資料分析。",
+			"avatar": "https://lh5.googleusercontent.com/dKiOs890FxT6_LJbjLZs5WcVdUDIDwCxOyeVVomoOPwmnBbltr_0bDRb05v7Q_DkHMtDNQ6CNSfjFm8=w1920-h983-rw"
 		}
-	}],
+	},
+	{
+		"title": "掌握資料科學，邁向人工智慧",
+		"speaker": {
+			"name": "Ryan Chung",
+			"title": "資策會IT Training Center課程研發經理",
+			"intro": "當工業4.0開始改變傳產樣貌，利用一手資料進行資料科學的需求也逐步上升。統計學與程式設計間的新交集，該如何從線上取得資源開始學習，未來的市場或就業機會又在哪裡？",
+			"avatar": "https://lh5.googleusercontent.com/XFLl38CY7dc4Oc2yWZuKKyJBtcJUnhy_rNRLmx2HkXBaLlrzxzlnKEwpw7WL4iybZDX6pcYN5v28PiU=w1920-h983"
+		}
+	},
+	{
+		"title": "實作智慧家庭四部曲",
+		"speaker": {
+			"name": "DOFI",
+			"title": "技術教學講師經驗10年、專業資訊技術譯作30本，專長為系統分析與規劃",
+			"intro": "本工作坊將以四個實作個別獨立，內容主軸連續的形式進行。ㄧ部曲：物聯網實作入門：帶領大家快速實作物聯網雛形。二部曲：物聯網實作案例：實作各種雲端方式來實現智慧插座互動。三部曲：流程整合工具：以NodeRED來進行更具實用性與彈性的流程控制。四部曲：專屬App開發：運用Cordova技術來實作出專屬的物聯網行動App。",
+			"avatar": "https://lh5.googleusercontent.com/FGgVmNsvcSIzppcE5EBdGzEsmPydATss-u5dx81spMtp3draAfUifzePkct9xjR5YNhytzF2lDgbk9s=w1920-h983-rw"
+		}
+	}
+	],
 	"iosdc": [
 	{
-		"title": "準備中",
+		"title": "AppDevKit: 您輕鬆開發 App 的利器",
 		"speaker": {
-			"name": "",
-			"title": "",
-			"intro": "",
-			"avatar": ""
+			"name": "宋志峰 (Anistar)",
+			"title": "目前服務於雅虎奇摩，負責 Yahoo iOS APP 開發",
+			"intro": "AppDevKit 是專注 iOS App 的 Open Source 開發者套件，提供 180 個以上功能；2017更新增 CameraKit 讓開發者只需要短短的幾行程式碼就能快速的建立屬於自己的客製化相機服務。 將分享利用 AppDevKit 輕鬆解決 App 開發所會招遇到的困難。",
+			"avatar": "https://lh6.googleusercontent.com/uOsyNZt6FPmCHErTYOp0bfLBZrGC6_TTGNwQJVNkQPjTWleMbVG6VtpdgcNk1x8ZKpyCR4dKt-0QxkY=w1920-h983-rw"
 		}
-	}]
+	},
+	{
+		"title": "Auto Layout，你從哪裡來？要往何處去",
+		"speaker": {
+			"name": "劉信",
+			"title": "紐約大學數學碩士",
+			"intro": "<p>iOS 開發者與課程設計師，因數學背景，iOS 相關技術中獨鍾 Auto Layout，目前最關心科技未來會帶給教育什麼改變。</p><p>Auto Layout 在 iOS 上屆滿五週年，但仍有不少的開發者對於這個佈局系統又愛又恨，本議程將討論為什麼 Constraint 系統長這樣以及它的出發點，隨著開發時程推進，Auto Layout 該如何演進，以及它將有什麼樣的未來？</p>",
+			"avatar": "https://lh6.googleusercontent.com/_6Fb_iP5E8BNZBFv6HmeGkRbAKK_6pv1__14c039m89Pp3p-Sp2Z6pixzUV2uioaI3vtS9mW4d0H3JY=w1920-h983-rw"
+		}
+	},
+	{
+		"title": "iOS 11：設計與開發的關係",
+		"speaker": {
+			"name": "Taylor Hu",
+			"title": "UXabc 創辦人及 UI、數位產品設計師",
+			"intro": "除了內在架構之外，iOS 11 也帶來了一系列設計上的改變，在本次的講座中，將探討這些 UI 視覺更新的意義、以及與工程開發之間的關係，並從三個面向來探討：UI 的改變、適配 iPhone X、Native vs Custom (原生 UI 與客製化的選擇)",
+			"avatar": "https://lh6.googleusercontent.com/86HE3pW5bCKGIE644v0cYcQWPAXXSbW6UW4f7liT-oUWyLGv5bsnnP14cO3uygZItVENOhZYe7pN90s=w1920-h983"
+		}
+	},
+	{
+		"title": "創作 MusicKit 告白情歌 App",
+		"speaker": {
+			"name": "彼得潘(潘世穎)",
+			"title": "iOS 開發講師",
+			"intro": "如何使用 iOS 11 的 Music Kit 取得 API Token 與 Key，存取 Apple Music 百萬首的音樂，進而建立歌單。",
+			"avatar": "https://lh6.googleusercontent.com/03tIWCsxwScdb5wLwctBBapjO661FHahyKr0cRmADI3RFg_DgTP_-f5Hi8lUI4AT318C4MlaYk0i_kk=w1920-h983-rw"
+		}
+	},
+	{
+		"title": "CoreML 自己的AI自己訓練之你就是那條龍",
+		"speaker": {
+			"name": "張景隆",
+			"title": "台灣大學 HackNTU iOS course 講師",
+			"intro": "展示 CoreML 功能與架構，從0到1訓練自己的AI模型，並使用 CoreML Tools 轉換格式",
+			"avatar": "https://lh4.googleusercontent.com/cSLqOE-_AFLiqIGyOK4BxKhOXZGob1xO4kuJIUQ-MOZTwNtwBdfkFVPj5uvAeIiAq3W0XXaiq4Rhq5I=w1920-h983-rw"
+		}
+	}
+	]
 }

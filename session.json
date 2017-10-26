@@ -36,6 +36,15 @@
 			}
 		},
 		{
+			"title": "iOS App 資訊安全之測試與開發實作",
+			"speaker": {
+				"name": "Gary Lin",
+				"title": "資深 iOS 工程師",
+				"intro": "<p>11/18 10:50~11:50</p><p>與其它平台相較之下，iOS的安全環境確實具備了先天的優勢。不過，這並不表示開發者可以完全不顧資安了，本議題將介紹 iOS 開發中較少談論的資安議題，就由 Gary 的經驗開始分享起吧！</p><h3>經歷</h3>多年 iOS App 接案開發經驗、曾經逆向分析 Nintendo 3DS 遊戲，並修改遊戲程式行為、<s>皮樂姊姊好碰友</s>",
+				"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/13254800_1195521160488736_9107727658111453397_o+-+Gary+Lin.jpg"
+			}
+		},
+		{
 			"title": "親民易上手、企業 App 跨平台創新應用 - FileMaker",
 			"speaker": {
 				"name": "劉仲濱",

@@ -1,5 +1,24 @@
 {
-	"augm": [{
+	"augm": [
+		{
+			"title": "報到時間 08:30-09:00",
+			"speaker": {
+				"name": "",
+				"title": "",
+				"intro": "報到時，請出示 KKTIX QRCode 票券入場。",
+				"avatar": ""
+			}
+		},
+		{
+			"title": "兩日議程總介紹",
+			"speaker": {
+				"name": "主辦單位",
+				"title": "",
+				"intro": "介紹11/18-11/19兩天所有的議程及參加指南。",
+				"avatar": ""
+			}
+		},
+		{
 			"title": "用 Keynote 簡報抓住你的心",
 			"speaker": {
 				"name": "蘋果梗",

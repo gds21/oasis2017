@@ -3,9 +3,9 @@
 		{
 			"title": "報到時間 08:30-09:00",
 			"speaker": {
-				"name": "",
+				"name": "內有行前通知",
 				"title": "",
-				"intro": "報到時，請出示 KKTIX QRCode 票券入場。",
+				"intro": "報到時，請出示 KKTIX QRCode 票券入場。行前通知：https://oasisforum.blogspot.tw/2017/11/oasis-augm-2017.html",
 				"avatar": ""
 			}
 		},
@@ -14,7 +14,7 @@
 			"speaker": {
 				"name": "主辦單位",
 				"title": "",
-				"intro": "介紹11/18-11/19兩天所有的議程及參加指南。",
+				"intro": "介紹11/18-11/19兩天所有的議程及參加指南。也歡迎參考：https://oasisforum.blogspot.tw/2017/10/augm-2017.html",
 				"avatar": ""
 			}
 		},
@@ -34,6 +34,15 @@
 				"title": "插畫創作者、職業繪師、繪畫教學講師",
 				"intro": "<p>11/18 09:30~11:50</p><p>iPad 是一個不錯的繪圖工具嗎？這個問題也許交給專業的繪師回答會更好，AK擁有超過 17 年的電繪經驗，他會教你傳統與電繪的差別，更甚至電繪與 iPad 繪圖的差別，帶你在繪圖前先熟悉工具，並說明為什麼 iPad 及 Apple Pencil 是集大成的新工具，最後再進行一場現場繪製秀。</p>",
 				"avatar": "https://www.dropbox.com/s/yj1tzpbjlk5o1f9/IMG_2550%20-%20AK%20iPad%20Art.jpg?raw=1"
+			}
+		},
+		{
+			"title": "Mac 也會中「勒索病毒」！？你不可不知的完美 NAS 蘋果備份術",
+			"speaker": {
+				"name": "陳甯",
+				"title": "專欄作家",
+				"intro": "<p>11/18 09:30~10:30</p>前些日子勒索病毒的災情襲捲全球，當我們慶幸自己是 Mac 的成員時，也別忘了其實蘋果電腦也是電腦。當時沒發生在我們身上的，也許有一天會成真。培養資安概念與做好備份是非常重要的。透過陳甯的專業見解，你會知道 NAS 如何能幫你。<p>",
+				"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/photo.jpg"
 			}
 		},
 		{

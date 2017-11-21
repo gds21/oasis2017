@@ -235,13 +235,41 @@
 			}
 		}
 	],
-	"smart-city": [{
-		"title": "以Python進行空氣品質資料分析與視覺化",
+	"smart-city": [
+	{
+		"title": "卓越製造、工業互聯 建構最具競爭力智慧工廠",
 		"speaker": {
-			"name": "謝欣成",
-			"title": "中央研究院環境變遷研究中心博士後研究員",
-			"intro": "Python簡介、資料分析與視覺化，並使用環保署測站及LASS環境感測網路系統進行資料分析。",
-			"avatar": "https://lh5.googleusercontent.com/dKiOs890FxT6_LJbjLZs5WcVdUDIDwCxOyeVVomoOPwmnBbltr_0bDRb05v7Q_DkHMtDNQ6CNSfjFm8=w1920-h983-rw"
+			"name": "蕭仰權",
+			"title": "工業4.0系統領域頂尖專家",
+			"intro": "<p>2017/12/16 09:30 ~ 11:50</p><p>蕭仰權為國內智慧製造專家，超過40年以上產業製造執行系統、自動化設備資料收集及整合系統設計規劃經驗，曾輔導上市櫃、傳產及中小企業不計其數。曾任鴻海集團資深處長、惠普/康柏技術協理、祥騰科技副總經理、羽冠電腦副總經理、迪吉多經理。</p><p>台中為製造業基地，本議題將介紹如何透過工業 4.0 實現智能化生產，以及它的實施範圍、智慧製造執行系統實施案例分享。</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/Robert+Hsiao+-+Olivia+Hu.png"
+		}
+	},
+	{
+		"title": "物聯基礎工作坊首部曲 - 物聯網實作入門：帶領大家快速實作物聯網雛形。",
+		"speaker": {
+			"name": "DOFI",
+			"title": "技術教學講師經驗十年、專業資訊技術譯作30本",
+			"intro": "<p>2017/12/16 09:30 ~ 10:30</p><p>OASIS 智慧城市論壇為了讓所有人都能了解物聯網的面貌，特地安排 DOFI 講師到場展開四部曲工作坊。首部工作坊將帶領大家快速實作物聯網雛形。</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/DOFI_Logo+-+Dofi+Lo.jpg"
+		}
+	},
+	{
+		"title": "醫學照護與物聯網交互的現在進行式",
+		"speaker": {
+			"name": "陳泰翔",
+			"title": "泰盛物聯網科技、豐盛數位創辦人",
+			"intro": "<p>2017/12/16 09:30 ~ 10:30</p><p>現今物聯網的趨勢、生理訊號的收集與預防醫學結合、目前有哪些可用的生理訊號感測器、江河資料與人工智慧、物聯網與長期照護的關係、物聯網如何實現健康住宅</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/%E9%99%B3%E6%B3%B0%E7%BF%94_%E5%A4%A7%E9%A0%AD%E7%85%A7+-+%E9%99%B3%E6%B3%B0%E7%BF%94.jpg"
+		}
+	},
+	{
+		"title": "物聯基礎工作坊二部曲 - 物聯網實作案例：實作各種雲端方式來實現智慧插座互動",
+		"speaker": {
+			"name": "DOFI",
+			"title": "技術教學講師經驗十年、專業資訊技術譯作30本",
+			"intro": "<p>2017/12/16 13:30 ~ 14:30</p><p>OASIS 智慧城市論壇為了讓所有人都能了解物聯網的面貌，特地安排 DOFI 講師到場展開四部曲工作坊。首部工作坊將帶領大家快速實作物聯網雛形。</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/DOFI_Logo+-+Dofi+Lo.jpg"
 		}
 	},
 	{
@@ -249,8 +277,53 @@
 		"speaker": {
 			"name": "Ryan Chung",
 			"title": "資策會IT Training Center課程研發經理",
-			"intro": "當工業4.0開始改變傳產樣貌，利用一手資料進行資料科學的需求也逐步上升。統計學與程式設計間的新交集，該如何從線上取得資源開始學習，未來的市場或就業機會又在哪裡？",
+			"intro": "<p>2017/12/16 14:50 ~ 15:50</p><p>AI智能服務應用大賽 - 市政 ChatBot 特別獎得主、MPP - Data Science 台灣推廣負責人、AI Engineer 就業養成班負責人</p></p>當工業4.0開始改變傳產樣貌，利用一手資料進行資料科學的需求也逐步上升。統計學與程式設計間的新交集，該如何從線上取得資源開始學習，未來的市場或就業機會又在哪裡？",
 			"avatar": "https://lh5.googleusercontent.com/XFLl38CY7dc4Oc2yWZuKKyJBtcJUnhy_rNRLmx2HkXBaLlrzxzlnKEwpw7WL4iybZDX6pcYN5v28PiU=w1920-h983"
+		}
+	},
+	{
+		"title": "ITS產業15年",
+		"speaker": {
+			"name": "鄭旭峰",
+			"title": "銓鼎科技創辨人，現任公司董事長及總經理，畢業於國立成功大學交通管理科學學系研究所。",
+			"intro": "<p>2017/12/17 09:30 ~ 11:50</p><p>曾經任職於大同公司、中國生產力中心、精宸科技、巨達電信及以柔資訊。專業領域包括了智慧交通系統規劃分析、公共運輸及物流管理、生產自動化及運籌排程系統、車聯網設備系統整合規劃、無線及區域網路規劃，擔任各項大型及公共工程專案計劃主持人的經驗豐富，為國內資深高階專業經理人及電信、通訊及產業顧問。</p><p>智慧交通介紹及全球產業發展趨勢、台灣地區智慧交通產業發展、協同車聯網方案介紹、安全輔助駕駛解決方案介紹、智慧街道及街道傢俱的發展應用</p>",
+			"avatar": "	https://s3-ap-northeast-1.amazonaws.com/oasis2017/Roger_2x3+-+Olivia+Hu.jpg"
+		}
+	},
+	{
+		"title": "物聯基礎工作坊三部曲 - 流程整合工具：以NodeRED來進行更具實用性與彈性的流程控制。",
+		"speaker": {
+			"name": "DOFI",
+			"title": "技術教學講師經驗十年、專業資訊技術譯作30本",
+			"intro": "<p>2017/12/17 10:50 ~ 11:50</p><p>OASIS 智慧城市論壇為了讓所有人都能了解物聯網的面貌，特地安排 DOFI 講師到場展開四部曲工作坊。首部工作坊將帶領大家快速實作物聯網雛形。</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/DOFI_Logo+-+Dofi+Lo.jpg"
+		}
+	},
+	{
+		"title": "智慧城市、無人商店來了，你該怎麼辦？",
+		"speaker": {
+			"name": "李保慶",
+			"title": "豆子金成長學苑專任講師",
+			"intro": "<p>2017/12/17 13:30 ~ 14:30</p><p>智慧停車場系統規劃建置經驗、台灣國道電子收費系統建置維護經驗</p><p>智慧城市的組成元素包含哪些？並且分享智慧城市的共享經濟與實際案例、在 2017 年的五大新趨勢：VR、直播、AI、機器人、無人商店後未來五年怎麼做？</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/%E6%BC%94%E8%AC%9B%E5%AF%A6%E6%B3%811+-+%E6%9D%8E%E7%B5%84%E9%95%B7.jpg"
+		}
+	},
+	{
+		"title": "物聯基礎工作坊四部曲 - 專屬App開發：運用Cordova技術來實作出專屬的物聯網行動App。",
+		"speaker": {
+			"name": "DOFI",
+			"title": "技術教學講師經驗十年、專業資訊技術譯作30本",
+			"intro": "<p>2017/12/17 14:50 ~ 15:50</p><p>OASIS 智慧城市論壇為了讓所有人都能了解物聯網的面貌，特地安排 DOFI 講師到場展開四部曲工作坊。首部工作坊將帶領大家快速實作物聯網雛形。</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/DOFI_Logo+-+Dofi+Lo.jpg"
+		}
+	},
+	{
+		"title": "以Python進行空氣品質資料分析與視覺化",
+		"speaker": {
+			"name": "謝欣成",
+			"title": "中央研究院環境變遷研究中心博士後研究員",
+			"intro": "<p>2017/12/17 13:30 ~ 15:50</p><p>國立中央大學化學系博士、輔仁大學化學碩士、專長：空氣污染、區域性空氣品質模式、微量氣體分析、資料分析。</p><p>Python簡介、資料分析與視覺化，並使用環保署測站及LASS環境感測網路系統進行資料分析。",
+			"avatar": "https://lh5.googleusercontent.com/dKiOs890FxT6_LJbjLZs5WcVdUDIDwCxOyeVVomoOPwmnBbltr_0bDRb05v7Q_DkHMtDNQ6CNSfjFm8=w1920-h983-rw"
 		}
 	},
 	{

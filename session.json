@@ -237,11 +237,20 @@
 	],
 	"smart-city": [
 	{
+		"title": "AI 時代下的新使用者介面 - 語音人工智慧",
+		"speaker": {
+			"name": "杭志明",
+			"title": "威盛電子股份有限公司產品總監",
+			"intro": "<p>威盛電子股份有限公司 OLAMI 人工智慧平台產品總監。多年台灣及中國市場的科技、IT及系統領域產品發展經驗，現致力於包含語音及影像辨識等人工智慧領域應用推廣。</p><p>AI 產業極速發展，產品與服務越做越複雜，如何透過語音人工智慧技術，使得人們活得更直覺？當人工智慧核心技術通常為國際重量級企業持有的情況下，台灣廠商在語音技術領域有何發展與突破？</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/image5-small+-+Ryan+Hang.jpg"
+		}
+	},
+	{
 		"title": "物聯基礎工作坊首部曲 - 物聯網實作入門：帶領大家快速實作物聯網雛形。",
 		"speaker": {
 			"name": "DOFI",
 			"title": "技術教學講師經驗十年、專業資訊技術譯作30本",
-			"intro": "<p>OASIS 智慧城市論壇為了讓所有人都能了解物聯網的面貌，特地安排 DOFI 講師到場展開四部曲工作坊。首部工作坊將帶領大家快速實作物聯網雛形。</p>",
+			"intro": "<p>OASIS 智慧城市論壇為了讓所有人都能了解物聯網的面貌，特地安排 DOFI 講師到場展開四部曲工作坊。首部工作坊將帶領大家使用 Webduino 快速實作物聯網雛形。</p>",
 			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/DOFI_Logo+-+Dofi+Lo.jpg"
 		}
 	},
@@ -268,7 +277,7 @@
 		"speaker": {
 			"name": "DOFI",
 			"title": "技術教學講師經驗十年、專業資訊技術譯作30本",
-			"intro": "<p>OASIS 智慧城市論壇為了讓所有人都能了解物聯網的面貌，特地安排 DOFI 講師到場展開四部曲工作坊。首部工作坊將帶領大家快速實作物聯網雛形。</p>",
+			"intro": "<p>OASIS 智慧城市論壇為了讓所有人都能了解物聯網的面貌，特地安排 DOFI 講師到場展開四部曲工作坊。</p>",
 			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/DOFI_Logo+-+Dofi+Lo.jpg"
 		}
 	},
@@ -282,12 +291,12 @@
 		}
 	},
 	{
-		"title": "AI 時代下的新使用者介面 - 語音人工智慧",
+		"title": "大眾運輸智慧化20年心路歷程",
 		"speaker": {
-			"name": "杭志明",
-			"title": "威盛電子股份有限公司產品總監",
-			"intro": "<p>威盛電子股份有限公司 OLAMI 人工智慧平台產品總監。多年台灣及中國市場的科技、IT及系統領域產品發展經驗，現致力於包含語音及影像辨識等人工智慧領域應用推廣。</p><p>AI 產業極速發展，產品與服務越做越複雜，如何透過語音人工智慧技術，使得人們活得更直覺？當人工智慧核心技術通常為國際重量級企業持有的情況下，台灣廠商在語音技術領域有何發展與突破？</p>",
-			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/image5-small+-+Ryan+Hang.jpg"
+			"name": "鄭旭峰",
+			"title": "銓鼎科技創辨人，現任公司董事長及總經理，畢業於國立成功大學交通管理科學學系研究所。",
+			"intro": "<p>曾經任職於大同公司、中國生產力中心、精宸科技、巨達電信及以柔資訊。專業領域包括了智慧交通系統規劃分析、公共運輸及物流管理、生產自動化及運籌排程系統、車聯網設備系統整合規劃、無線及區域網路規劃，擔任各項大型及公共工程專案計劃主持人的經驗豐富，為國內資深高階專業經理人及電信、通訊及產業顧問。</p><p>智慧交通介紹及全球產業發展趨勢、台灣地區智慧交通產業發展、協同車聯網方案介紹、安全輔助駕駛解決方案介紹、智慧街道及街道傢俱的發展應用</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/Roger_2x3+-+Olivia+Hu.jpg"
 		}
 	},
 	{
@@ -300,30 +309,21 @@
 		}
 	},
 	{
+		"title": "物聯基礎工作坊三部曲 - 以NodeRED來進行更具實用性與彈性的流程控制。",
+		"speaker": {
+			"name": "DOFI",
+			"title": "技術教學講師經驗十年、專業資訊技術譯作30本",
+			"intro": "<p>OASIS 智慧城市論壇為了讓所有人都能了解物聯網的面貌，特地安排 DOFI 講師到場展開四部曲工作坊。</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/DOFI_Logo+-+Dofi+Lo.jpg"
+		}
+	},
+	{
 		"title": "智慧交通與車路聯網應用",
 		"speaker": {
 			"name": "李威勳",
 			"title": "成功大學交通管理科學系暨電信管理研究所",
 			"intro": "<p>李威勳博士畢業於交通大學資訊工程研究所，現任國立成功大學交通管理系暨電信管理研究所副教授，研究興趣包含車路聯網與交通管理應用、智慧型運輸系統、近場通訊技術、FINTECH技術與應用等。研究成果發表在交通管理與電信管理等重要期刊近20篇，並有十五篇發明專利。</p><p>本演講將探討智慧型運輸系統的過去、現在與未來，人、車、路、系統的智慧化發展趨勢以及車路聯網的原理與應用</p>",
 			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/LEEWS_PHOTO+-+Wei-Hsun+Lee.jpg"
-		}
-	},
-	{
-		"title": "大眾運輸智慧化20年心路歷程",
-		"speaker": {
-			"name": "鄭旭峰",
-			"title": "銓鼎科技創辨人，現任公司董事長及總經理，畢業於國立成功大學交通管理科學學系研究所。",
-			"intro": "<p>曾經任職於大同公司、中國生產力中心、精宸科技、巨達電信及以柔資訊。專業領域包括了智慧交通系統規劃分析、公共運輸及物流管理、生產自動化及運籌排程系統、車聯網設備系統整合規劃、無線及區域網路規劃，擔任各項大型及公共工程專案計劃主持人的經驗豐富，為國內資深高階專業經理人及電信、通訊及產業顧問。</p><p>智慧交通介紹及全球產業發展趨勢、台灣地區智慧交通產業發展、協同車聯網方案介紹、安全輔助駕駛解決方案介紹、智慧街道及街道傢俱的發展應用</p>",
-			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/Roger_2x3+-+Olivia+Hu.jpg"
-		}
-	},
-	{
-		"title": "物聯基礎工作坊三部曲 - 流程整合工具：以NodeRED來進行更具實用性與彈性的流程控制。",
-		"speaker": {
-			"name": "DOFI",
-			"title": "技術教學講師經驗十年、專業資訊技術譯作30本",
-			"intro": "<p>OASIS 智慧城市論壇為了讓所有人都能了解物聯網的面貌，特地安排 DOFI 講師到場展開四部曲工作坊。首部工作坊將帶領大家快速實作物聯網雛形。</p>",
-			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/DOFI_Logo+-+Dofi+Lo.jpg"
 		}
 	},
 	{
@@ -336,21 +336,21 @@
 		}
 	},
 	{
-		"title": "物聯基礎工作坊四部曲 - 專屬App開發：運用Cordova技術來實作出專屬的物聯網行動App。",
-		"speaker": {
-			"name": "DOFI",
-			"title": "技術教學講師經驗十年、專業資訊技術譯作30本",
-			"intro": "<p>OASIS 智慧城市論壇為了讓所有人都能了解物聯網的面貌，特地安排 DOFI 講師到場展開四部曲工作坊。首部工作坊將帶領大家快速實作物聯網雛形。</p>",
-			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/DOFI_Logo+-+Dofi+Lo.jpg"
-		}
-	},
-	{
 		"title": "以Python進行空氣品質資料分析與視覺化",
 		"speaker": {
 			"name": "謝欣成",
 			"title": "中央研究院環境變遷研究中心博士後研究員",
 			"intro": "<p>國立中央大學化學系博士、輔仁大學化學碩士、專長：空氣污染、區域性空氣品質模式、微量氣體分析、資料分析。</p><p>Python簡介、資料分析與視覺化，並使用環保署測站及LASS環境感測網路系統進行資料分析。",
 			"avatar": "https://lh5.googleusercontent.com/dKiOs890FxT6_LJbjLZs5WcVdUDIDwCxOyeVVomoOPwmnBbltr_0bDRb05v7Q_DkHMtDNQ6CNSfjFm8=w1920-h983-rw"
+		}
+	},
+	{
+		"title": "物聯基礎工作坊四部曲 - 運用Cordova技術來實作出專屬的物聯網行動App。",
+		"speaker": {
+			"name": "DOFI",
+			"title": "技術教學講師經驗十年、專業資訊技術譯作30本",
+			"intro": "<p>OASIS 智慧城市論壇為了讓所有人都能了解物聯網的面貌，特地安排 DOFI 講師到場展開四部曲工作坊。</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/DOFI_Logo+-+Dofi+Lo.jpg"
 		}
 	}
 	],
@@ -362,6 +362,51 @@
 			"title": "目前服務於雅虎奇摩，負責 Yahoo iOS APP 開發",
 			"intro": "AppDevKit 是專注 iOS App 的 Open Source 開發者套件，提供 180 個以上功能；2017更新增 CameraKit 讓開發者只需要短短的幾行程式碼就能快速的建立屬於自己的客製化相機服務。 將分享利用 AppDevKit 輕鬆解決 App 開發所會招遇到的困難。",
 			"avatar": "https://lh6.googleusercontent.com/uOsyNZt6FPmCHErTYOp0bfLBZrGC6_TTGNwQJVNkQPjTWleMbVG6VtpdgcNk1x8ZKpyCR4dKt-0QxkY=w1920-h983-rw"
+		}
+	},
+	{
+		"title": "從工具產生的程式碼學習iOS 動畫組成基本原理",
+		"speaker": {
+			"name": "Michael Pan",
+			"title": "資深 iOS 開發顧問",
+			"intro": "<p>Michael Pan 從 2009 年開始教授 iOS 程式開發，輔導過數家上市櫃公司進行開發，並曾於國內大專院校內教授 iOS App。/p><p>為了讓 App 體驗變得更好，在視覺上投注心力開發已經是現代 App 設計時無法草率的一環。Michael 以實務及教學經驗，分享 Xcode 跟 Flow 的整合，並利用 View Animation、Layer Animation 及 View Controller Transition 等技巧設計巧妙的動畫。</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/michael_head+-+Michael+Pan.png"
+		}
+	},
+	{
+		"title": "[無基礎可]如果成為 iOS App 開發魔法師",
+		"speaker": {
+			"name": "彼得潘(潘世穎)",
+			"title": "iOS 開發講師及作家",
+			"intro": "<p>彼得潘著有《 Swift程式設計入門 》、《 App 程式設計入門－iPhone, iPad 》，並在多個雜誌及網站上共筆資訊專欄，於個人及大專院校皆推出 iOS App 開發課程。</p><p>在學習 iOS App 開發的期間，一定會遇到許多問題，甚至在技術與創業之間摸索。彼得潘將用他的經歷與各位分享，在學習 iOS App 之前，可以先了解一下這門職涯的未來如何。</p>",
+			"avatar": "https://lh6.googleusercontent.com/03tIWCsxwScdb5wLwctBBapjO661FHahyKr0cRmADI3RFg_DgTP_-f5Hi8lUI4AT318C4MlaYk0i_kk=w1920-h983-rw"
+		}
+	},
+	{
+		"title": "[無基礎可]創作 MusicKit 告白情歌 App",
+		"speaker": {
+			"name": "彼得潘(潘世穎)",
+			"title": "iOS 開發講師及作家",
+			"intro": "<p>如何使用 iOS 11 的 Music Kit 取得 API Token 與 Key，存取 Apple Music 百萬首的音樂，進而建立歌單。</p>",
+			"avatar": "https://lh6.googleusercontent.com/03tIWCsxwScdb5wLwctBBapjO661FHahyKr0cRmADI3RFg_DgTP_-f5Hi8lUI4AT318C4MlaYk0i_kk=w1920-h983-rw"
+		}
+	},
+	{
+		"title": "如何寫出可被維護的 UI Automation",
+		"speaker": {
+			"name": "Nadia",
+			"title": "目前在 KKBOX 負責 iOS 自動化測試",
+			"intro": "<p>UI 的變動容易使自動化測試失敗，也使自動化的測試案例難以維護，這一直都是阻礙自動化測試前進的一個問題，這次將分享如何寫出容易維護的自動化測試案例。</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/IMG_0940+-+Nadia+Lin.jpg"
+		}
+	},
+	{
+		"title": "設計師與敏捷開發團隊進行協作",
+		"speaker": {
+			"name": "Riven 林育正",
+			"title": "UX 規劃與 UI 設計師",
+			"intro": "<p>大學時成立設計工作室 RAR Design，從此過著遊牧型設計師的生活。曾在首爾、釜山及上海等城市獲競賽首獎，並幾次旅行於越南、日本等地協助品牌規劃、負責上海創客大賽的台灣區運作等。近來專注於台灣新創產品的UX規劃與UI設計，於2017年11月與夥伴在台中投資創建設計師與開發者共生社群暨共同工作空間 - Monospace</p><p>專案執行過程期間，應該要先有開發還是先有設計？設計師在開發團隊中的定位如何，可以使用哪些原型工具跟團隊溝通呢？</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/%E7%85%A7%E7%89%87+2017-4-25+%E4%B8%8B%E5%8D%886.14+%236+-+%E6%9E%97%E8%82%B2%E6%AD%A3.jpg"
 		}
 	},
 	{
@@ -383,21 +428,21 @@
 		}
 	},
 	{
-		"title": "創作 MusicKit 告白情歌 App",
-		"speaker": {
-			"name": "彼得潘(潘世穎)",
-			"title": "iOS 開發講師",
-			"intro": "如何使用 iOS 11 的 Music Kit 取得 API Token 與 Key，存取 Apple Music 百萬首的音樂，進而建立歌單。",
-			"avatar": "https://lh6.googleusercontent.com/03tIWCsxwScdb5wLwctBBapjO661FHahyKr0cRmADI3RFg_DgTP_-f5Hi8lUI4AT318C4MlaYk0i_kk=w1920-h983-rw"
-		}
-	},
-	{
 		"title": "CoreML 自己的AI自己訓練之你就是那條龍",
 		"speaker": {
 			"name": "張景隆",
 			"title": "台灣大學 HackNTU iOS course 講師",
 			"intro": "展示 CoreML 功能與架構，從0到1訓練自己的AI模型，並使用 CoreML Tools 轉換格式",
 			"avatar": "https://lh4.googleusercontent.com/cSLqOE-_AFLiqIGyOK4BxKhOXZGob1xO4kuJIUQ-MOZTwNtwBdfkFVPj5uvAeIiAq3W0XXaiq4Rhq5I=w1920-h983-rw"
+		}
+	},
+	{
+		"title": "軟與硬的交響樂章",
+		"speaker": {
+			"name": "Kent Liu",
+			"title": "開發規劃超過 80 支 App，並為上市企業的專職技術顧問",
+			"intro": "<p>從 2009年開始從事 iOS/Android App 開發與教育訓練工作，開發與規劃過的各式App超過八十個，近年有一半左右的工作日在講課或演講、分享，也擔任多家上市企業的專職技術顧問。</p><p>喜歡在生活中沖浪、在生命中高空彈跳。喜歡在程式設計的浩瀚大海中遊走。喜歡分享開發的心得與經驗，希望能為台灣的軟體業與新生代貢獻一分力。</p><p>自認是一個不折不扣的科技(老?)頑童，常花錢買一些五四三的怪東西，但家裡沒電視，也完全不給小孩玩3C。最近最常玩的是AI、軟硬體整合、物聯網、嵌入式Linux系統與Arduino，很享受於軟硬整合的無盡樂趣。</p><p>App 是通往物聯網入口最貼身的方式，以 App 的立場而言，如何將軟硬結合在一起，使其更貼近你我的生活，將是這個議程的重點。</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/Henry_Cavill_Mug+-+Kent+Liu.jpg"
 		}
 	}
 	]

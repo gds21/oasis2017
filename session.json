@@ -392,6 +392,15 @@
 		}
 	},
 	{
+		"title": "The Fundamentals of Reactive Programming with RxSwift",
+		"speaker": {
+			"name": "Bob Lee",
+			"title": "Founder of Bob The Developer",
+			"intro": "<p>Bob Lee 建造了 https://www.bobthedeveloper.io 網站，在本議程中將介紹如何用 RxSwift 進行 Reactive Programming。本議程為英文演說。 </p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/5TY-kchI_400x400.jpg"
+		}
+	},
+	{
 		"title": "如何寫出可被維護的 UI Automation",
 		"speaker": {
 			"name": "Nadia",

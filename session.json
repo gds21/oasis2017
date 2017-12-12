@@ -237,6 +237,24 @@
 	],
 	"smart-city": [
 	{
+		"title": "12/16 10:10 開放報到",
+		"speaker": {
+			"name": "主辦單位",
+			"title": "主辦單位",
+			"intro": "議程介紹：https://oasisforum.blogspot.tw/2017/12/1216-1217-oasis2017.html",
+			"avatar": ""
+		}
+	},
+	{
+		"title": "12/17 08:50 開放報到",
+		"speaker": {
+			"name": "主辦單位",
+			"title": "主辦單位",
+			"intro": "議程介紹：https://oasisforum.blogspot.tw/2017/12/1216-1217-oasis2017.html",
+			"avatar": ""
+		}
+	},
+	{
 		"title": "AI 時代下的新使用者介面 - 語音人工智慧",
 		"speaker": {
 			"name": "杭志明",
@@ -315,6 +333,15 @@
 			"title": "技術教學講師經驗十年、專業資訊技術譯作30本",
 			"intro": "<p>OASIS 智慧城市論壇為了讓所有人都能了解物聯網的面貌，特地安排 DOFI 講師到場展開四部曲工作坊。</p>",
 			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/DOFI_Logo+-+Dofi+Lo.jpg"
+		}
+	},
+	{
+		"title": "Xamarin讓一個創新的共享經濟構想快速上線",
+		"speaker": {
+			"name": "James Tsai",
+			"title": "Microsoft MVP (2015~2018)",
+			"intro": "<p>講者為昕力資訊 Xamarin 資深顧問、Skilltree 兼任講師、台灣微軟特約講師、USPACE 新創公司 共同創辦人</p><p>在一場與時間賽跑跟資源匱乏情況下，如何從服務端技術、消費端技術以及金流端技術找出最適合的技術選擇。</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/xamarin-P12-8+-+James+Tsai.png"
 		}
 	},
 	{

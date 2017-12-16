@@ -169,6 +169,11 @@
       "name": "演說單位",
       "logo": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/logo01+-+Olivia+Hu.png",
       "href": "http://www.maxwin.com.tw"
+    },
+    {
+      "name": "演說單位",
+      "logo": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/LiveXAML-Logo+-+James+Tsai.png",
+      "href": "https://tw.livexaml.com"
     }
   ]
 }

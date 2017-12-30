@@ -383,12 +383,21 @@
 	],
 	"iosdc": [
 	{
-		"title": "AppDevKit: 您輕鬆開發 App 的利器",
+		"title": "報到時間 08:50-09:15 內含 iOSDC 觀眾行前通知",
 		"speaker": {
-			"name": "宋志峰 (Anistar)",
-			"title": "目前服務於雅虎奇摩，負責 Yahoo iOS APP 開發",
-			"intro": "AppDevKit 是專注 iOS App 的 Open Source 開發者套件，提供 180 個以上功能；2017更新增 CameraKit 讓開發者只需要短短的幾行程式碼就能快速的建立屬於自己的客製化相機服務。 將分享利用 AppDevKit 輕鬆解決 App 開發所會招遇到的困難。",
-			"avatar": "https://lh6.googleusercontent.com/uOsyNZt6FPmCHErTYOp0bfLBZrGC6_TTGNwQJVNkQPjTWleMbVG6VtpdgcNk1x8ZKpyCR4dKt-0QxkY=w1920-h983-rw"
+			"name": "主辦單位",
+			"title": "主辦單位",
+			"intro": "",
+			"avatar": ""
+		}
+	},
+	{
+		"title": "[免票參加] 開發者如何協助企業導入 iOS App",
+		"speaker": {
+			"name": "陳士平",
+			"title": "Apple 技術顧問",
+			"intro": "開發企業使用 iOS app 注意事項、如何部署、管理企業 iOS app、要開發企業使用 iOS app 有哪些資源能夠協助我",
+			"avatar": ""
 		}
 	},
 	{
@@ -401,33 +410,6 @@
 		}
 	},
 	{
-		"title": "[無基礎可]如何成為 iOS App 開發魔法師",
-		"speaker": {
-			"name": "彼得潘(潘世穎)",
-			"title": "iOS 開發講師及作家",
-			"intro": "<p>彼得潘著有《 Swift程式設計入門 》、《 App 程式設計入門－iPhone, iPad 》，並在多個雜誌及網站上共筆資訊專欄，於個人及大專院校皆推出 iOS App 開發課程。</p><p>在學習 iOS App 開發的期間，一定會遇到許多問題，甚至在技術與創業之間摸索。彼得潘將用他的經歷與各位分享，在學習 iOS App 之前，可以先了解一下這門職涯的未來如何。</p>",
-			"avatar": "https://lh6.googleusercontent.com/03tIWCsxwScdb5wLwctBBapjO661FHahyKr0cRmADI3RFg_DgTP_-f5Hi8lUI4AT318C4MlaYk0i_kk=w1920-h983-rw"
-		}
-	},
-	{
-		"title": "創作 MusicKit 告白情歌 App",
-		"speaker": {
-			"name": "彼得潘(潘世穎)",
-			"title": "iOS 開發講師及作家",
-			"intro": "<p>如何使用 iOS 11 的 Music Kit 取得 API Token 與 Key，存取 Apple Music 百萬首的音樂，進而建立歌單。</p>",
-			"avatar": "https://lh6.googleusercontent.com/03tIWCsxwScdb5wLwctBBapjO661FHahyKr0cRmADI3RFg_DgTP_-f5Hi8lUI4AT318C4MlaYk0i_kk=w1920-h983-rw"
-		}
-	},
-	{
-		"title": "The Fundamentals of Reactive Programming with RxSwift",
-		"speaker": {
-			"name": "Bob Lee",
-			"title": "Founder of Bob The Developer",
-			"intro": "<p>Bob Lee 建造了 https://www.bobthedeveloper.io 網站，在本議程中將介紹如何用 RxSwift 進行 Reactive Programming。本議程為英文演說。 </p>",
-			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/5TY-kchI_400x400.jpg"
-		}
-	},
-	{
 		"title": "如何寫出可被維護的 UI Automation",
 		"speaker": {
 			"name": "Nadia",
@@ -437,12 +419,12 @@
 		}
 	},
 	{
-		"title": "設計師與敏捷開發團隊進行協作",
+		"title": "DEBUG 裝屌指南 - 那些看起來高級的 LLDB 手勢",
 		"speaker": {
-			"name": "Riven 林育正",
-			"title": "UX 規劃與 UI 設計師",
-			"intro": "<p>大學時成立設計工作室 RAR Design，從此過著遊牧型設計師的生活。曾在首爾、釜山及上海等城市獲競賽首獎，並幾次旅行於越南、日本等地協助品牌規劃、負責上海創客大賽的台灣區運作等。近來專注於台灣新創產品的UX規劃與UI設計，於2017年11月與夥伴在台中投資創建設計師與開發者共生社群暨共同工作空間 - Monospace</p><p>專案執行過程期間，應該要先有開發還是先有設計？設計師在開發團隊中的定位如何，可以使用哪些原型工具跟團隊溝通呢？</p>",
-			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/%E7%85%A7%E7%89%87+2017-4-25+%E4%B8%8B%E5%8D%886.14+%236+-+%E6%9E%97%E8%82%B2%E6%AD%A3.jpg"
+			"name": "Pofat",
+			"title": "打雜工程師",
+			"intro": "<p>在各種實驗性質的環境中寫 iOS 和一些 script、還有掃地煮飯、最近還很常泡咖啡、有空時關心UX和產品設計</p><p>深入淺出各種LLDB的使用方式以助你更方便地或用沒看過的方式來debug</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/avatar+-+%E6%9B%BE%E5%A5%95%E7%A9%8E.jpg"
 		}
 	},
 	{
@@ -455,12 +437,57 @@
 		}
 	},
 	{
-		"title": "iOS 11：設計與開發的關係",
+		"title": "從實例和實作了解 RxSwift 的設計方式",
 		"speaker": {
-			"name": "Taylor Hu",
-			"title": "UXabc 創辦人及 UI、數位產品設計師",
-			"intro": "除了內在架構之外，iOS 11 也帶來了一系列設計上的改變，在本次的講座中，將探討這些 UI 視覺更新的意義、以及與工程開發之間的關係，並從三個面向來探討：UI 的改變、適配 iPhone X、Native vs Custom (原生 UI 與客製化的選擇)",
-			"avatar": "https://lh6.googleusercontent.com/86HE3pW5bCKGIE644v0cYcQWPAXXSbW6UW4f7liT-oUWyLGv5bsnnP14cO3uygZItVENOhZYe7pN90s=w1920-h983"
+			"name": "陳澧萱",
+			"title": "BASE 株式会社 PAY 事業部 iOS 工程師",
+			"intro": "<p>跑去日本工作的彰化人、iOS 經歷約五年，從 Objective-C 寫到 Swift 的傢伙、RxSwift 經歷約九個月、可愛的角色和擺飾都很喜歡，平常會畫圖，圖放在「萱在畫畫」這個粉絲團</p><p>在我們的團隊裡面怎麼用各種 operators、設計 view model 的方法以及在 view model 會用哪些 observables、Error Handling 以及需要注意的方式、如果時間允許，會用簡單的範例說明並帶過一次實作。</p><p>建議先了解過：RxSwift/RxCocoa 的基本觀念，Observable, Driver, Operator ... 等等、POP (Protocol Oriented Programming)、Dependency Injection (相依性注入)、DFD (Data Flow Diagram)</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/2188594+(1)+-+Li+Hsuan+Chen.png"
+		}
+	},
+	{
+		"title": "AppDevKit: 您輕鬆開發 App 的利器",
+		"speaker": {
+			"name": "宋志峰 (Anistar)",
+			"title": "目前服務於雅虎奇摩，負責 Yahoo iOS APP 開發",
+			"intro": "AppDevKit 是專注 iOS App 的 Open Source 開發者套件，提供 180 個以上功能；2017更新增 CameraKit 讓開發者只需要短短的幾行程式碼就能快速的建立屬於自己的客製化相機服務。 將分享利用 AppDevKit 輕鬆解決 App 開發所會招遇到的困難。",
+			"avatar": "https://lh6.googleusercontent.com/uOsyNZt6FPmCHErTYOp0bfLBZrGC6_TTGNwQJVNkQPjTWleMbVG6VtpdgcNk1x8ZKpyCR4dKt-0QxkY=w1920-h983-rw"
+		}
+	},
+	{
+		"title": "先有開發還是先有設計",
+		"speaker": {
+			"name": "Riven 林育正",
+			"title": "UX 規劃與 UI 設計師",
+			"intro": "<p>大學時成立設計工作室 RAR Design，從此過著遊牧型設計師的生活。曾在首爾、釜山及上海等城市獲競賽首獎，並幾次旅行於越南、日本等地協助品牌規劃、負責上海創客大賽的台灣區運作等。近來專注於台灣新創產品的UX規劃與UI設計，於2017年11月與夥伴在台中投資創建設計師與開發者共生社群暨共同工作空間 - Monospace</p><p>專案執行過程期間，應該要先有開發還是先有設計？設計師在開發團隊中的定位如何，可以使用哪些原型工具跟團隊溝通呢？</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/%E7%85%A7%E7%89%87+2017-4-25+%E4%B8%8B%E5%8D%886.14+%236+-+%E6%9E%97%E8%82%B2%E6%AD%A3.jpg"
+		}
+	},
+	{
+		"title": "軟與硬的交響樂章",
+		"speaker": {
+			"name": "Kent Liu",
+			"title": "開發規劃超過 80 支 App，並為上市企業的專職技術顧問",
+			"intro": "<p>從 2009年開始從事 iOS/Android App 開發與教育訓練工作，開發與規劃過的各式App超過八十個，近年有一半左右的工作日在講課或演講、分享，也擔任多家上市企業的專職技術顧問。</p><p>喜歡在生活中沖浪、在生命中高空彈跳。喜歡在程式設計的浩瀚大海中遊走。喜歡分享開發的心得與經驗，希望能為台灣的軟體業與新生代貢獻一分力。</p><p>自認是一個不折不扣的科技(老?)頑童，常花錢買一些五四三的怪東西，但家裡沒電視，也完全不給小孩玩3C。最近最常玩的是AI、軟硬體整合、物聯網、嵌入式Linux系統與Arduino，很享受於軟硬整合的無盡樂趣。</p><p>App 是通往物聯網入口最貼身的方式，以 App 的立場而言，如何將軟硬結合在一起，使其更貼近你我的生活，將是這個議程的重點。</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/Henry_Cavill_Mug+-+Kent+Liu.jpg"
+		}
+	},
+	{
+		"title": "以下是1/21議程",
+		"speaker": {
+			"name": "",
+			"title": "",
+			"intro": "",
+			"avatar": ""
+		}
+	},
+	{
+		"title": "The Fundamentals of Reactive Programming with RxSwift",
+		"speaker": {
+			"name": "Bob Lee",
+			"title": "Founder of Bob The Developer",
+			"intro": "<p>Bob Lee 建造了 https://www.bobthedeveloper.io 網站，在本議程中將介紹如何用 RxSwift 進行 Reactive Programming。本議程為英文演說。 </p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/5TY-kchI_400x400.jpg"
 		}
 	},
 	{
@@ -473,12 +500,57 @@
 		}
 	},
 	{
-		"title": "軟與硬的交響樂章",
+		"title": "跟著蘋果官方教材學 Swift",
 		"speaker": {
-			"name": "Kent Liu",
-			"title": "開發規劃超過 80 支 App，並為上市企業的專職技術顧問",
-			"intro": "<p>從 2009年開始從事 iOS/Android App 開發與教育訓練工作，開發與規劃過的各式App超過八十個，近年有一半左右的工作日在講課或演講、分享，也擔任多家上市企業的專職技術顧問。</p><p>喜歡在生活中沖浪、在生命中高空彈跳。喜歡在程式設計的浩瀚大海中遊走。喜歡分享開發的心得與經驗，希望能為台灣的軟體業與新生代貢獻一分力。</p><p>自認是一個不折不扣的科技(老?)頑童，常花錢買一些五四三的怪東西，但家裡沒電視，也完全不給小孩玩3C。最近最常玩的是AI、軟硬體整合、物聯網、嵌入式Linux系統與Arduino，很享受於軟硬整合的無盡樂趣。</p><p>App 是通往物聯網入口最貼身的方式，以 App 的立場而言，如何將軟硬結合在一起，使其更貼近你我的生活，將是這個議程的重點。</p>",
-			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/Henry_Cavill_Mug+-+Kent+Liu.jpg"
+			"name": "蔡學欣",
+			"title": "",
+			"intro": "",
+			"avatar": ""
+		}
+	},
+	{
+		"title": "iOS 11：設計與開發的關係",
+		"speaker": {
+			"name": "Taylor Hu",
+			"title": "UXabc 創辦人及 UI、數位產品設計師",
+			"intro": "除了內在架構之外，iOS 11 也帶來了一系列設計上的改變，在本次的講座中，將探討這些 UI 視覺更新的意義、以及與工程開發之間的關係，並從三個面向來探討：UI 的改變、適配 iPhone X、Native vs Custom (原生 UI 與客製化的選擇)",
+			"avatar": "https://lh6.googleusercontent.com/86HE3pW5bCKGIE644v0cYcQWPAXXSbW6UW4f7liT-oUWyLGv5bsnnP14cO3uygZItVENOhZYe7pN90s=w1920-h983"
+		}
+	},
+	{
+		"title": "UnitTest 最後一哩路",
+		"speaker": {
+			"name": "詹岳勳",
+			"title": "KKBOX Group 負責 KKTV iOS app 開發",
+			"intro": "開發的過程中，充滿著很多歷史包袱，最常做的事是 debug 跟在現有的架構上加新功能。來分享我們是如何把一份舊 code 改寫，模組化以後邏輯切乾淨，並且補上 Unit Test 的過程。提高工程師的自信心，並且確定未來改寫時原有的功能還是正常",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/10671311_703237606424325_5580117495033748189_n+-+%E8%A9%B9%E5%B2%B3%E5%8B%B3.jpg"
+		}
+	},
+	{
+		"title": "[無基礎可] 如何成為 iOS App 開發魔法師",
+		"speaker": {
+			"name": "彼得潘(潘世穎)",
+			"title": "iOS 開發講師及作家",
+			"intro": "<p>彼得潘著有《 Swift程式設計入門 》、《 App 程式設計入門－iPhone, iPad 》，並在多個雜誌及網站上共筆資訊專欄，於個人及大專院校皆推出 iOS App 開發課程。</p><p>在學習 iOS App 開發的期間，一定會遇到許多問題，甚至在技術與創業之間摸索。彼得潘將用他的經歷與各位分享，在學習 iOS App 之前，可以先了解一下這門職涯的未來如何。</p>",
+			"avatar": "https://lh6.googleusercontent.com/03tIWCsxwScdb5wLwctBBapjO661FHahyKr0cRmADI3RFg_DgTP_-f5Hi8lUI4AT318C4MlaYk0i_kk=w1920-h983-rw"
+		}
+	},
+	{
+		"title": "Swift 記憶體管理與效能",
+		"speaker": {
+			"name": "John Lin",
+			"title": "Swift Taipei Meetup 主辦人、iCHEF 工程師",
+			"intro": "記憶體管理一向是一個麻煩的問題，在 Swift 裡有許多種管理記憶體的方法，讓我們一起探索各種不同方法的特色和對效能的影響。",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/IMG_7826+-+%E6%9E%97%E9%88%BA%E7%BF%94.JPG"
+		}
+	},
+	{
+		"title": "創作 MusicKit 告白情歌 App",
+		"speaker": {
+			"name": "彼得潘(潘世穎)",
+			"title": "iOS 開發講師及作家",
+			"intro": "<p>如何使用 iOS 11 的 Music Kit 取得 API Token 與 Key，存取 Apple Music 百萬首的音樂，進而建立歌單。</p>",
+			"avatar": "https://lh6.googleusercontent.com/03tIWCsxwScdb5wLwctBBapjO661FHahyKr0cRmADI3RFg_DgTP_-f5Hi8lUI4AT318C4MlaYk0i_kk=w1920-h983-rw"
 		}
 	}
 	]

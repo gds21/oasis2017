@@ -121,6 +121,11 @@
       "href": ""
     },
     {
+      "name": "GoldenBodyFitness",
+      "logo": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/21617766_118628288851733_3794523396467232216_n.jpg",
+      "href": "https://www.facebook.com/GoldenBodyFitnessGBF/"
+    },
+    {
       "name": "演說單位",
       "logo": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/file.png",
       "href": "https://www.facebook.com/hiraku.tw/"
@@ -179,6 +184,11 @@
       "name": "演說單位",
       "logo": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/icheflogo.png",
       "href": "https://www.ichefpos.com/"
+    },
+    {
+      "name": "演說單位",
+      "logo": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/kkbox_logo.png",
+      "href": "https://www.kkbox.com/tw/tc/index.html"
     }
   ]
 }

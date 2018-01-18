@@ -464,12 +464,30 @@
 		}
 	},
 	{
+		"title": "Xamarin 開發 iOS App 之外一章",
+		"speaker": {
+			"name": "James Tsai",
+			"title": "Microsoft MVP (2015~2018)",
+			"intro": "<p>講者為昕力資訊 Xamarin 資深顧問、Skilltree 兼任講師、台灣微軟特約講師、USPACE 新創公司 共同創辦人</p>",
+			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/xamarin-P12-8+-+James+Tsai.png"
+		}
+	},
+	{
 		"title": "軟與硬的交響樂章",
 		"speaker": {
 			"name": "Kent Liu",
 			"title": "開發規劃超過 80 支 App，並為上市企業的專職技術顧問",
 			"intro": "<p>從 2009年開始從事 iOS/Android App 開發與教育訓練工作，開發與規劃過的各式App超過八十個，近年有一半左右的工作日在講課或演講、分享，也擔任多家上市企業的專職技術顧問。</p><p>喜歡在生活中沖浪、在生命中高空彈跳。喜歡在程式設計的浩瀚大海中遊走。喜歡分享開發的心得與經驗，希望能為台灣的軟體業與新生代貢獻一分力。</p><p>自認是一個不折不扣的科技(老?)頑童，常花錢買一些五四三的怪東西，但家裡沒電視，也完全不給小孩玩3C。最近最常玩的是AI、軟硬體整合、物聯網、嵌入式Linux系統與Arduino，很享受於軟硬整合的無盡樂趣。</p><p>App 是通往物聯網入口最貼身的方式，以 App 的立場而言，如何將軟硬結合在一起，使其更貼近你我的生活，將是這個議程的重點。</p>",
 			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/Henry_Cavill_Mug+-+Kent+Liu.jpg"
+		}
+	},
+	{
+		"title": "如何在 swift 介接 c code",
+		"speaker": {
+			"name": "煒峻",
+			"title": "",
+			"intro": "15:40 - 16:10 介紹如何在 swift 環境下介接 c 語言(Bridging-Header 除外)如果時間允許，會再介紹個人已知的一些小技巧及經驗",
+			"avatar": ""
 		}
 	},
 	{
@@ -482,11 +500,11 @@
 		}
 	},
 	{
-		"title": "The Fundamentals of Reactive Programming with RxSwift",
+		"title": "The upcoming blockchain impact on iOS",
 		"speaker": {
 			"name": "Bob Lee",
 			"title": "Founder of Bob The Developer",
-			"intro": "<p>Bob Lee 建造了 https://www.bobthedeveloper.io 網站，在本議程中將介紹如何用 RxSwift 進行 Reactive Programming。本議程為英文演說。 </p>",
+			"intro": "<p>Bob Lee 建造了 https://www.bobthedeveloper.io 網站。本議程為英文演說。 </p>",
 			"avatar": "https://s3-ap-northeast-1.amazonaws.com/oasis2017/5TY-kchI_400x400.jpg"
 		}
 	},
